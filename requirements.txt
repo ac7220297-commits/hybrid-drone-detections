@@ -1,9 +1,8 @@
 ultralytics>=8.3.0
 streamlit>=1.35.0
 streamlit-webrtc>=0.47.1
-opencv-python-headless
+opencv-python-headless>=4.8.0
 ensemble-boxes>=1.0.9
 pillow>=10.0.0
 numpy>=1.24.0
 av>=10.0.0
-
